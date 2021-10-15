@@ -6,8 +6,7 @@
 - 🥅 2021 Goals: Learn React and, maybe, React Native
 
 ### Connect With Me
-[<img align="left" color="white" alt="@rafaah_fig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" color="white" alt="Rafael Figueiredo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas_Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/devrafaelfigueiredo)](https://linkedin.com/in/devrafaelfigueiredo) [![Gmail Badge](https://img.shields.io/badge/-contato.rafaelfig@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.rafaelfig@gmail.com)](mailto:contato.rafaelfig@gmail.com)
 
 <br />
 
