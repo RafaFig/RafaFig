@@ -8,7 +8,7 @@
 ### Connect With Me
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Figueiredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/devrafaelfigueiredo)](https://linkedin.com/in/devrafaelfigueiredo) [![Gmail Badge](https://img.shields.io/badge/-contato.rafaelfig@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.rafaelfig@gmail.com)](mailto:contato.rafaelfig@gmail.com)
 
-<br />
+---
 
 ### Languages And Tools
 
@@ -23,8 +23,10 @@
 [<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
+![github stats](https://github-readme-stats.vercel.app/api?username=RafaFig&show_icons=true&theme=tokyonight)
 <br />
 <br />
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RafaFig&layout=compact&show_icons=true&theme=tokyonight)
 
 [linkMapp]: https://mappsistemas.com.br
 [linkedin]: https://linkedin.com/in/devrafaelfigueiredo
