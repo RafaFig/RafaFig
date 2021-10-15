@@ -40,4 +40,3 @@
 [php]: https://www.php.net/
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/RafaFig
